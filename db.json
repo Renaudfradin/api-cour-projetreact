@@ -5,7 +5,7 @@
       "title": "Article 1",
       "category": 1,
       "published": true,
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "content": "ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 2,
@@ -27,6 +27,73 @@
       "category": 1,
       "published": false,
       "content": "lorem200000000000000000."
+    },
+    {
+      "title": "",
+      "": "k",
+      "id": 5
+    },
+    {
+      "title": "",
+      "id": 6
+    },
+    {
+      "title": "",
+      "id": 7
+    },
+    {
+      "title": "titre1test",
+      "id": 8
+    },
+    {
+      "title": "testavec coin",
+      "content": "loremmmmmm",
+      "id": 9
+    },
+    {
+      "title": "text2",
+      "content": "loremmmmmm1",
+      "published": "published",
+      "id": 10
+    },
+    {
+      "title": "121212",
+      "content": "212121",
+      "published": "",
+      "id": 11
+    },
+    {
+      "title": "Mr",
+      "content": "ffffffffff",
+      "published": "false",
+      "id": 12
+    },
+    {
+      "title": "",
+      "content": "",
+      "published": "false",
+      "id": 13
+    },
+    {
+      "title": "ddddd",
+      "content": "dddddd",
+      "published": true,
+      "category": 0,
+      "id": 14
+    },
+    {
+      "title": "Article 1",
+      "content": "212121",
+      "published": true,
+      "category": 0,
+      "id": 15
+    },
+    {
+      "title": "Article 1",
+      "content": "212121",
+      "published": true,
+      "category": 2,
+      "id": 16
     }
   ],
   "categories": [
